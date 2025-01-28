@@ -1,0 +1,62 @@
+[
+	{
+		"type": "backend",
+		"title": "AWS",
+		"imageSrc": "skills/aws.png"
+	},
+	{
+		"type": "frontend",
+		"title": "CSS",
+		"imageSrc": "skills/css.png"
+	},
+	{
+		"type": "backend",
+		"title": "Express.js",
+		"imageSrc": "skills/express.png"
+	},
+	{
+		"type": "frontend",
+		"title": "HTML",
+		"imageSrc": "skills/html.png"
+	},
+	{
+		"type": "language",
+		"title": "Java",
+		"imageSrc": "skills/java.png"
+	},
+	{
+		"type": "language",
+		"title": "Kotlin",
+		"imageSrc": "skills/kotlin.png"
+	},
+	{
+		"type": "backend",
+		"title": "Node",
+		"imageSrc": "skills/node.png"
+	},
+	{
+		"type": "backend",
+		"title": "PostgreSQL",
+		"imageSrc": "skills/postgresql.png"
+	},
+	{
+		"type": "frontend",
+		"title": "React",
+		"imageSrc": "skills/react.png"
+	},
+	{
+		"type": "backend",
+		"title": "SpringBoot",
+		"imageSrc": "skills/springboot.png"
+	},
+	{
+		"type": "language",
+		"title": "TypeScript",
+		"imageSrc": "skills/typescript.png"
+	},
+	{
+		"type": "language",
+		"title": "Python",
+		"imageSrc": "skills/python.png"
+	}
+]

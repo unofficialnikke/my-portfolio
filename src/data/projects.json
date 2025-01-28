@@ -1,0 +1,18 @@
+[
+	{
+		"title": "Photography Portfolio Platform",
+		"imageSrc": "projects/lokkiportfolio.png",
+		"description": "This platform was developed for photographers to showcase their photographs and connect with other photographers.",
+		"skills": ["React", "Node", "Express", "AWS", "SASS"],
+		"demo": "https://main.d3lbpwh76dvehb.amplifyapp.com/",
+		"source": "https://github.com/unofficialnikke/image-portfolio-web-application"
+	},
+	{
+		"title": "Fitness App",
+		"imageSrc": "projects/fitnessapp.jpg",
+		"description": "With this mobile application you can create new trainings and schedule them to calendar.",
+		"skills": ["React Native", "Google Firebase", "Expo"],
+		"demo": "",
+		"source": "https://github.com/unofficialnikke/image-portfolio-web-application"
+	}
+]
