@@ -3,5 +3,5 @@ export const getImageUrl = (path: string) => {
 		console.error('No path provided to getImageUrl')
 		return ''
 	}
-	return `/assets/${path}`
+	return `https://dulcet-tanuki-268d13.netlify.app/assets/${path}`
 }
