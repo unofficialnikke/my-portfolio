@@ -1,0 +1,61 @@
+@use '../../vars.scss';
+
+.container {
+	color: var(--color-text);
+	margin-top: 100px;
+	background-color: var(--color-secondary);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding: 58px 10%;
+	.text {
+		width: 75%;
+		h2 {
+			font-size: 80px;
+			font-weight: 700;
+			letter-spacing: 4px;
+		}
+		p {
+			font-size: 30px;
+			font-weight: 400;
+			letter-spacing: 2px;
+		}
+	}
+	.links {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		list-style: none;
+		gap: 26px;
+		.link {
+			display: flex;
+			align-items: center;
+			gap: 25px;
+
+			a {
+				color: var(--color-text);
+				text-decoration: none;
+				font-size: 35px;
+				font-weight: 400;
+				letter-spacing: 1.5px;
+
+				&:hover {
+					color: var(--color-primary);
+				}
+			}
+		}
+	}
+	@media screen and (max-width: 830px) {
+		flex-direction: column;
+		gap: 23px;
+		.text {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		.links {
+			align-items: center;
+		}
+	}
+}

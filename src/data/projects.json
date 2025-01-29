@@ -2,7 +2,7 @@
 	{
 		"title": "Photography Portfolio Platform",
 		"imageSrc": "projects/lokkiportfolio.png",
-		"description": "This platform was developed for photographers to showcase their photographs and connect with other photographers.",
+		"description": "This platform was developed for photographers to showcase their photographs and connect with other photographers. This app is part of my thesis.",
 		"skills": ["React", "Node", "Express", "AWS", "SASS"],
 		"demo": "https://main.d3lbpwh76dvehb.amplifyapp.com/",
 		"source": "https://github.com/unofficialnikke/image-portfolio-web-application"
@@ -10,9 +10,9 @@
 	{
 		"title": "Fitness App",
 		"imageSrc": "projects/fitnessapp.jpg",
-		"description": "With this mobile application you can create new trainings and schedule them to calendar.",
+		"description": "A mobile application where user can create new trainings and schedule them to calendar. This app utilizes a third party API, which helps user to find new training movements.",
 		"skills": ["React Native", "Google Firebase", "Expo"],
 		"demo": "",
-		"source": "https://github.com/unofficialnikke/image-portfolio-web-application"
+		"source": "https://github.com/unofficialnikke/FitnessApp"
 	}
 ]

@@ -1,16 +1,17 @@
-import React from 'react'
 import { getImageUrl } from '../../utils'
 import styles from './Hero.module.scss'
 export const Hero = () => {
 	return (
 		<section className={styles.container}>
 			<div className={styles.content}>
-				<h1 className={styles.title}>Hello I'm Nicklas!</h1>
+				<h1 className={styles.title}>Hi! I'm Nicklas Nyström!</h1>
 				<p className={styles.description}>
-					Im a software developer with wide experience with frontend and backend
-					developing.
+					A software developer eager to grow, innovate, and take on new challenges.
+					<br />
+					<br />I believe that software development is a lifelong learning journey, always offering
+					something new to learn, as technological advancement never comes to an end.
 				</p>
-				<a href='mailto:myemail@email.com' className={styles.contactBtn}>
+				<a href={`mailto:${import.meta.env.VITE_EMAIL}`} className={styles.contactBtn}>
 					Contact me
 				</a>
 			</div>
