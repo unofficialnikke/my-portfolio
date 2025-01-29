@@ -33,12 +33,10 @@ export const About = () => {
 					<div className={styles.aboutItemText}>
 						<h3>Frontend Developer</h3>
 						<p>
-							Driven by a passion for building robust and scalable systems, I have developed backend
-							solutions using Node.js with Express.js and Spring Boot with Java and Kotlin. I have
-							designed and implemented databases, primarily with PostgreSQL, and created RESTful API
-							endpoints to enable seamless communication between frontend and backend. Additionally,
-							my experience with cloud services—especially AWS—has allowed me to deploy, manage, and
-							optimize applications for real-world performance.
+							I have gained strong frontend development experience through a variety of individual
+							and team projects. As a frontend developer, I have designed and built user interfaces,
+							styled components, and managed API requests. While React and TypeScript are my
+							specialties, I also have experience with Vue, always eager to expand my expertise.
 						</p>
 					</div>
 				</li>
