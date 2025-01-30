@@ -1,7 +1,6 @@
 import styles from './Navbar.module.scss'
-import { getImageUrl } from '../../utils'
 import { useState } from 'react'
-import { BsLinkedin, BsGithub } from 'react-icons/bs'
+import { BsLinkedin, BsGithub, BsList, BsX } from 'react-icons/bs'
 export const Navbar = () => {
 	const [menuOpen, setMenuOpen] = useState(false)
 
@@ -11,12 +10,9 @@ export const Navbar = () => {
 				Portfolio
 			</a>
 			<div className={styles.menu}>
-				<img
-					className={styles.menuBtn}
-					src={menuOpen ? getImageUrl('nav/closeIcon.png') : getImageUrl('nav/menuIcon.png')}
-					alt='menu-button'
-					onClick={() => setMenuOpen(!menuOpen)}
-				/>
+				<a className={styles.menuBtn} onClick={() => setMenuOpen(!menuOpen)}>
+					{menuOpen ? <BsX /> : <BsList />}
+				</a>
 				<ul
 					className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
 					onClick={() => setMenuOpen(false)}

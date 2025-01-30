@@ -52,8 +52,10 @@
 			z-index: 3;
 
 			.menuBtn {
+				font-size: 50px;
 				display: block;
 				cursor: pointer;
+				color: var(--color-text);
 			}
 
 			.menuItems {

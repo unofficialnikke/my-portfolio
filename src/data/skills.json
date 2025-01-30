@@ -5,20 +5,16 @@
 		"imageSrc": "skills/aws.png"
 	},
 	{
-		"type": "frontend",
-		"title": "CSS",
-		"imageSrc": "skills/css.png"
+		"type": "backend",
+		"title": "Firebase",
+		"imageSrc": "skills/firebase.png"
 	},
 	{
 		"type": "backend",
 		"title": "Express.js",
 		"imageSrc": "skills/express.png"
 	},
-	{
-		"type": "frontend",
-		"title": "HTML",
-		"imageSrc": "skills/html.png"
-	},
+
 	{
 		"type": "language",
 		"title": "Java",
@@ -31,7 +27,7 @@
 	},
 	{
 		"type": "backend",
-		"title": "Node",
+		"title": "Node.js",
 		"imageSrc": "skills/node.png"
 	},
 	{
@@ -58,5 +54,30 @@
 		"type": "language",
 		"title": "Python",
 		"imageSrc": "skills/python.png"
+	},
+	{
+		"type": "frontend",
+		"title": "Vue.js",
+		"imageSrc": "skills/vue.png"
+	},
+	{
+		"type": "frontend",
+		"title": "React Native",
+		"imageSrc": "skills/reactnative.png"
+	},
+	{
+		"type": "frontend",
+		"title": "HTML",
+		"imageSrc": "skills/html.png"
+	},
+	{
+		"type": "frontend",
+		"title": "CSS",
+		"imageSrc": "skills/css.png"
+	},
+	{
+		"type": "frontend",
+		"title": "SASS",
+		"imageSrc": "skills/sass.png"
 	}
 ]

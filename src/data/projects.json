@@ -3,7 +3,7 @@
 		"title": "Photography Portfolio Platform",
 		"imageSrc": "projects/lokkiportfolio.png",
 		"description": "This platform was developed for photographers to showcase their photographs and connect with other photographers. This app is part of my thesis.",
-		"skills": ["React", "Node", "Express", "AWS", "SASS"],
+		"skills": ["React", "Node.js", "Express.js", "PostgreSQL", "SASS", "Amazon Web Services"],
 		"demo": "https://main.d3lbpwh76dvehb.amplifyapp.com/",
 		"source": "https://github.com/unofficialnikke/image-portfolio-web-application"
 	},
