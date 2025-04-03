@@ -3,7 +3,14 @@
 		"school": "Haaga-Helia University of Applied Sciences",
 		"programme": "Business Information Technology",
 		"startDate": "08/2021",
-		"endDate": "2025",
+		"endDate": "06/2025",
 		"imageSrc": "experience/haagahelia.png"
+	},
+	{
+		"school": "OP Financial Group",
+		"programme": "Developer Trainee",
+		"startDate": "04/2025",
+		"endDate": "Present",
+		"imageSrc": "experience/op.png"
 	}
 ]

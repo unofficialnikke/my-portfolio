@@ -5,10 +5,7 @@ export const Contact = () => {
 		<footer id='contact' className={styles.container}>
 			<div className={styles.text}>
 				<h2>Contact</h2>
-				<p>
-					I'm currently seeking a role as software developer. Have you any questions or want to
-					connect with me, feel free to reach out!
-				</p>
+				<p>Have you any questions or want to connect with me, feel free to reach out!</p>
 			</div>
 			<ul className={styles.links}>
 				<li className={styles.link}>
